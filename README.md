@@ -143,10 +143,10 @@ git push origin master
 ```
 
 > **ADVANCED NOTE**: If you have multiple remotes, you can push to multiple
-> remotes.
-> $ git push origin master
-> $ git push paycheck master
-> $ git push hackMaster master
+> remotes.  
+> $ git push origin master  
+> $ git push paycheck master  
+> $ git push hackMaster master  
 
 This will push your code up to the remote repo/branch. The first time you push
 code up to a newly-added remote repository, use the `-u` flag to tell Git to
